@@ -21,8 +21,10 @@ import watch from './icons/Stop-watch.svg';
 import twitter from './icons/Twitter.svg';
 import vans from './icons/Vans.svg';
 import vector from './icons/Vector.svg';
+import youtube from './icons/Youtube.svg';
 
 // products
+// desk
 import desk from './products/desk/Desk.svg';
 import product_1 from './products/desk/Product1.svg';
 import product_2 from './products/desk/Product2.svg';
@@ -38,9 +40,26 @@ import hero_3 from './products/hero/hero-3.svg';
 import hero_4 from './products/hero/hero-4.svg';
 
 // others
+import shoes_1 from './products/Shoe1.svg';
+import shoe_2 from './products/Shoe2.png';
+import shoe_3 from './products/Shoe3.png';
+import shoe_4 from './products/Shoe4.png';
+import shoe_side from './products/Side-shoe.png';
+import info_label from "./Information_Label.svg";
+import person from './Rectangle.svg';
+import person_2 from './Rectangle2.png';
+import men from './Men.png';
+import women from './Women.png';
+import kids from './Kids.png';
+
+// design
+import scroll_desing from './360.svg';
+import shoe_art from './Shoe_art.svg';
+import color from './Color.svg'
 
 export {
   logo,
+  youtube,
   product_1,
   product_2,
   product_3,
@@ -51,6 +70,20 @@ export {
   hero_2,
   hero_3,
   hero_4,
+  shoes_1,
+  shoe_2,
+  shoe_3,
+  shoe_4,
+  shoe_side,
+  info_label,
+  scroll_desing,
+  shoe_art,
+  person,
+  person_2,
+  men,
+  women,
+  kids,
+  color,
   vector,
   desk,
   vans,
