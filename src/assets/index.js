@@ -22,6 +22,7 @@ import twitter from './icons/Twitter.svg';
 import vans from './icons/Vans.svg';
 import vector from './icons/Vector.svg';
 import youtube from './icons/Youtube.svg';
+import puma from './icons/Puma.svg'
 
 // products
 // desk
@@ -57,8 +58,15 @@ import scroll_desing from './360.svg';
 import shoe_art from './Shoe_art.svg';
 import color from './Color.svg'
 
+// people shoes
+import people_shoe1 from './people_shoe1.png';
+import people_shoe2 from './people_shoe2.png';
+import people_shoe3 from './people_shoe3.png';
 export {
   logo,
+  people_shoe1,
+  people_shoe2,
+  people_shoe3,
   youtube,
   product_1,
   product_2,
@@ -66,6 +74,7 @@ export {
   product_4,
   product_5,
   product_6,
+  puma,
   hero_1,
   hero_2,
   hero_3,
