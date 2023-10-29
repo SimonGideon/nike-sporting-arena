@@ -6,7 +6,7 @@ import {  Home, Navbar } from './components';
 const App = () => {
 
   return (
-    <div className="flex bg-black">
+    <div className="flex">
       <div className="">
         <div className="">
         <div className="">

@@ -1,10 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@font-face { 
-  font-family: "Futura"; 
-  src: url("./assets/fonts/FutuBkIt.ttf") format('ttf'); 
-} 
+@font-face {
+  font-family: "Futura";
+  src: url("./assets/fonts/FuturaBookBT.ttf") format("ttf");
+}
 
 body {
   background: #000;
@@ -12,4 +12,6 @@ body {
 
 .font {
   font-family: "Fatura", sans-serif;
+  color: #fff;
+  font-weight: 400;
 }
