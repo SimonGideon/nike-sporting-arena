@@ -1,6 +1,9 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
+  fontFamily :{ 
+    Futura: ["Futura","sans"], 
+  } ,
   theme: {
     extend: {
       colors: {

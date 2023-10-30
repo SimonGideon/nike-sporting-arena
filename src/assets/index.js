@@ -1,6 +1,6 @@
 import loader from './loader.svg';
 // icons
-import logo from './Logo.svg';
+import logo from './icons/Logo.svg';
 import nike_icon from './icons/_nike_icon.png';
 import account from './icons/Account.svg';
 import arrow from './icons/Arrow.svg';
@@ -55,7 +55,7 @@ import kids from './Kids.png';
 
 // design
 import scroll_desing from './360.svg';
-import shoe_art from './Shoe_art.svg';
+import shoe_art from './Shoe-art.svg';
 import color from './Color.svg'
 
 // people shoes
