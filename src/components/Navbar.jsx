@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className="flex gap-2">
         {links.map((link, i) => (
           <li key={i} className=" mx-8 flex list-none ">
-            <a key={i} className="font uppercase" href={link.to}>
+            <a key={i} className="font uppercase text-xl" href={link.to}>
               {link.name}
             </a>
           </li>
